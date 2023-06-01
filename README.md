@@ -14,7 +14,7 @@ According to the Mayo Clinic, heart disease describes a range of conditions that
  
  [^1]:[Heart disease](https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118)
  
- ![heart-disease-1552649741](https://github.com/mahmoud26202620/k/assets/41892582/2ec7832b-2ebf-40f9-895f-434af6c5aa6c)
+![heart-disease-1552649741](https://github.com/mahmoud26202620/prediction-of-the-Cleveland-Heart-Disease-dataset/assets/41892582/07b53f9c-fb42-4de0-9e33-213dd5793655)
 
 
 **About Dataset**
